@@ -24,5 +24,11 @@ Contributions to this project are welcome! If you would like to contribute to th
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code and resources in this repository for your own LeetCode Workshop meetups.
 
+## Naming Conventions
+Please follow the naming conventions below when creating new files or folders in this repository:
+
+1. **File Names**: Use kebab case (all lowercase with hyphens) for file names of specific programming languages such as Python, and C++. For example: `two-sum.py`, `integer-to-roman.cpp`. Use Pascal case (first letter of each word capitalized) for file names of general programming languages such as Java, and JavaScript. For example: `TwoSum.java`, `IntegerToRoman.js`.
+2. **Folder Names**: Use kebab case for folder names as well. For example: `array-problems`, `string-problems`.
+3. **Readme Files**: Use `README.md` (all uppercase) for the main README file of each problem or topic folder.
 
 Feel free to customize and modify the README.md file as per your needs.
