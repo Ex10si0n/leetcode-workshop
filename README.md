@@ -2,6 +2,8 @@
 
 Welcome to the LeetCode Workshop repository! This repository is meant to support 👨‍💻(currently unnamed) LeetCode online workshop meetups with friends, where everyone can work together on solving LeetCode problems and improve your coding skills.
 
+![](./assets/poster.png)
+
 ## About
 In this LeetCode Workshop, our goal is to provide a collaborative environment for participants to solve LeetCode problems and learn from each other. This repository will serve as a central hub for sharing code solutions, discussing problem-solving approaches, and organizing meetup sessions.
 
