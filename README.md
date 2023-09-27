@@ -7,6 +7,8 @@ Welcome to the LeetCode Workshop repository! This repository is meant to support
 ## About
 In this LeetCode Workshop, our goal is to provide a collaborative environment for participants to solve LeetCode problems and learn from each other. This repository will serve as a central hub for sharing code solutions, discussing problem-solving approaches, and organizing meetup sessions.
 
+![](./assets/in-gather-town.jpg)
+
 ## Getting Started
 To participate in the LeetCode Workshop, follow these steps if you willing to:
 
